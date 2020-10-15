@@ -1,3 +1,4 @@
+The zip file contains all the same file that are visible outside
 Compiling the file.c  as
 Compile : gcc file.c -o filexe
 
